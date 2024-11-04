@@ -1,4 +1,4 @@
-# code
+# slotcode
 欧美slots合集源码+印度rummy合集源码
 
 ![1730450382721](https://github.com/user-attachments/assets/9d41a098-929c-43ec-92dd-d1b57307fc3c)
