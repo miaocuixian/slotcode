@@ -1,4 +1,4 @@
-![3](https://github.com/user-attachments/assets/b4e12646-ab93-4d7a-a9d7-95a8fda27ec1)# SLOT PG合集源码
+#SLOT PG合集源码
 欧美slots合集源码，几十款slot，含赛马、赛狗等其他街机/百人游戏
 Slot collection source code, dozens of slot source codes for sale.
 
