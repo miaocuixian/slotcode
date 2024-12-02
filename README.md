@@ -1,4 +1,4 @@
-##SLOT PG合集源码
+SLOT PG合集源码
 
 欧美slots合集源码，几十款slot，含赛马、赛狗等其他街机/百人游戏
 Slot collection source code, dozens of slot source codes for sale.
